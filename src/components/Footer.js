@@ -30,7 +30,7 @@ export default function Footer() {
         <li>
           <h1 className="footer-header">Contact</h1>
           <ul className="footer-links">
-            <li>1234 Pretend road,</li>
+            <li>1234 demo .....,</li>
             <li>World</li>
             <br></br>
             <li>(123)-456-7890</li>
